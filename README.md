@@ -8,7 +8,7 @@ Includes *data cleaning, exploratory analysis, and SQL queries*. A Power BI dash
 - Data/retail_sales_cleaned.csv → Cleaned dataset  
 - Notebooks/Retail_Sales_Analysis.ipynb → Python code for cleaning & EDA  
 - SQL/retail_sales_queries.sql → SQL scripts for analysis  
-- PowerBI_Dashboard/ → (to be added) Power BI dashboard and screenshots  
+- PowerBI_Dashboard/ → (Retail_sales_analysis.pbix) Power BI dashboard and screenshots  
 
 ## 🛠 Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
